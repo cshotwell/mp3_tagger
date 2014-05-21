@@ -15,7 +15,7 @@ Below are the dependencies necessary to run *mp3_tagger*. I am sure it will run 
 | -------------------------------------------------- | ------- | ------------------- |
 | [mutagenx](https://github.com/LordSputnik/mutagen) | 1.2.3   | ID3 Tagging Library |
 | [Requests](http://docs.python-requests.org/)       | 2.3.0   | HTTP Library        |
-| [npysceen](https://code.google.com/p/npyscreen/)   | 3.9     | ncurses Wrapper     |
+| [npyscreen](https://code.google.com/p/npyscreen/)   | 3.9     | ncurses Wrapper     |
 
 ## Usage:
 `python3 mp3_tagger.py`
